@@ -1,0 +1,5 @@
+# Table of contents
+
+* [ℹ️ User guide: node-mongo setup, installation and usage](README.md)
+* [ℹ️ Reference Guide: node-mongo features and commands](detailed-guide.md)
+* [Collabo User Documentation](https://docs.collabocommunity.com/user-documentation)
