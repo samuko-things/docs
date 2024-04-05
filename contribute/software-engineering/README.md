@@ -1,8 +1,8 @@
 ---
-description: SOFTWARE ENGINEERING CONTRIBUTION WORKFLOW 1
+description: SOFTWARE ENGINEERING CONTRIBUTION WORKFLOW
 ---
 
-# Contribution Workflow for Software Engineers Test 1
+# Contribution Workflow for Software Engineers
 
 ***
 
