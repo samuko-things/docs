@@ -26,7 +26,7 @@ See _**Writing Collabo Projects**_ in the sidebar to find _**Technical and Non-T
 
 ## Making and submitting changes for documentation projects
 
-See tabs below for the different methods/mediums you can use to edit technical writing and documentation projects.
+See tabs below for the different methods/mediums you can use to edit technical or non-technical writing and documentation projects.
 
 {% tabs %}
 {% tab title="Option 1: GitBook" %}
@@ -45,18 +45,17 @@ _**Edit and submit change requests**_
 {% endtab %}
 
 {% tab title="Option 2: GitHub" %}
-_**GitHub repositories for documentation projects**_
+_**GitHub repository for documentation projects**_
 
-Our GitBook docs are synced to Github repositories, so that you can find them and edit them on Github too. Github repositories:
+Our GitBook docs are synced to one GitHub repository, so that you can find them and edit them on GitHub too.
 
-* [Community docs and contributor docs (for all technical writing and documentation projects)](https://github.com/code-collabo/docs)
-* [Node Mongo (user docs)](https://github.com/code-collabo/node-mongo)
+GitHub repository link: [https://github.com/collabo-community/docs](https://github.com/collabo-community/docs)
 
 ***
 
 _**Edit and submit pull requests**_
 
-See the YouTube playlist in the page below:
+See the guidelines for submitting pull requests to any of our GitHub repositories in the page below.
 
 {% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/kz0h3jWUEnMa4Mjjkort/" %}
 [Pull Request Guidelines](https://app.gitbook.com/o/-MWSSST6\_GF5VEuG0Atd/s/kz0h3jWUEnMa4Mjjkort/)
