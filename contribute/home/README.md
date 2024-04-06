@@ -54,4 +54,4 @@ Once you are assigned to an issue ticket, members of the community will be able 
 
 ## Reporting issues you find with collabo projects
 
-We encourage you to report any (not yet reported) issues that you detect with any of our repositories or applications that you are working on. [Report issues for any of our repositories here](https://github.com/code-collabo/.github/issues/new). Repository maintainers and/or community mentors will sort them out and send them to the appropriate columns on the Collabo Community Task Board for you and other contributors to be able to start working on them.
+We encourage you to report any (not yet reported) issues that you detect with any of our repositories or applications that you are working on. [Report issues for any of our repositories here](https://github.com/collabo-community/contributor-issue-report/issues). Repository maintainers and/or community mentors will sort them out and send them to the appropriate columns on the Collabo Community Task Board for you and other contributors to be able to start working on them.
