@@ -16,7 +16,11 @@ Here at _<mark style="background-color:yellow;">**@collabo-community**</mark>_, 
 
 ## Code of Conduct
 
-Before you start contributing, read up our Community Code of Conduct and rules to help understand how we'd like community members to comport themselves, relate with and be mindful of other members of the community. [_Go to Code of conduct_](https://docs.collabocommunity.com/contribute/code-of-conduct)_**.**_
+Before you start contributing, read up our Community Code of Conduct and rules to help understand how we'd like community members to comport themselves, relate with and be mindful of other members of the community.
+
+{% content-ref url="code-of-conduct.md" %}
+[code-of-conduct.md](code-of-conduct.md)
+{% endcontent-ref %}
 
 ***
 
@@ -28,27 +32,19 @@ To help you easily find the specific contributor docs for your area of interest 
 
 ***
 
-## Contribution Workflow
+## Contribution Workflow & Collabo Projects
 
-Before you start contributing to any of our projects, read up the contribution workflow for your area of interest or expertise. Follow the guide in the [_Navigating collabo contributor docs_](https://docs.collabocommunity.com/contribute/#navigating-collabo-contributor-docs) section above to find the contribution workflow for _<mark style="background-color:yellow;">**@collabo-community**</mark>_ projects that are available for you to contribute to, based on your area of interest and/or expertise.
-
-***
-
-## Collabo Projects
-
-Follow the guide in the [_Navigating collabo contributor docs_](https://docs.collabocommunity.com/contribute/#navigating-collabo-contributor-docs) section above to find _<mark style="background-color:yellow;">**@collabo-community**</mark>_ projects that are available for you to contribute to, based on your area of interest and/or expertise.
+Before you start contributing to any of our projects, read up the contribution workflow for your area of interest or expertise. Contribution workflow provides information on the projects that are available for you to contribute to within the _<mark style="background-color:yellow;">**@collabo-community**</mark>_, how to access these projects and/or steps to setup the project(s) you choose. Follow the guide in the [_Navigating collabo contributor docs_](https://docs.collabocommunity.com/contribute/#navigating-collabo-contributor-docs) section above to find the contribution workflow for _<mark style="background-color:yellow;">**@collabo-community**</mark>_ projects that are available for you to contribute to, based on your area of interest and/or expertise.
 
 ***
 
 ## Finding issue tickets and assignments to work on
 
-Check the [Collabo Community Project Board](https://github.com/orgs/code-collabo/projects/2/views/1). You can choose from any column on this board depending on your interest and/or area of expertise.&#x20;
+Use the project board to find issue tickets to work on. Also read up why you should first get assigned to an issue from the project board page below.
 
-_**Volunteer contributors:**_ Comment on an issue ticket that interests you to get assigned to it. Get assigned to the issue ticket before you start working on the issue ticket assignment.
-
-_**Repo maintainers, community mentors and Interns:**_ Assign yourself to an issue ticket before you start working on the issue ticket assignment.
-
-Once you are assigned to an issue ticket, members of the community will be able to see the activities on that ticket as you work on it. This promotes transparency, reduces confusion and is useful to providing you support in case you get stuck. You can only work on or request to work on one issue ticket at a time (i.e. get an approving review on pull request submitted, before requesting to work on another issue ticket). Be patient with reviewers.
+{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/1WERKLU4EwHAfMgNhwEA/" %}
+[Project Board](https://app.gitbook.com/o/-MWSSST6\_GF5VEuG0Atd/s/1WERKLU4EwHAfMgNhwEA/)
+{% endcontent-ref %}
 
 ***
 
