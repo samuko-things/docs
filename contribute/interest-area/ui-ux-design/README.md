@@ -19,7 +19,7 @@ Visit the contributing guide page below to get directions about what is importan
 ## Finding projects to contribute to
 
 {% hint style="info" %}
-See _**Collabo Projects**_ in the sidebar to find _**UI/UX Design**_ project list and documentation pages. You will be able to get the information for the project that interests you from the pages there.
+See _**UI/UX design Collabo Projects**_ in the sidebar to find _**UI/UX Design**_ project list and documentation pages. You will be able to get the information for the project that interests you from the pages there.
 {% endhint %}
 
 ***
