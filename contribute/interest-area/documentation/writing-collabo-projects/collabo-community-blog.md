@@ -34,7 +34,7 @@ We host our blog posts on [Hashnode](https://collabocommunity.hashnode.dev/). Ch
 
 ## Suggesting and writing a new blog post
 
-You would usually [find (new blog post or blog post improvement issue tickets) to work on on the project board](https://docs.collabocommunity.com/contribute/#finding-issue-tickets-and-assignments-to-work-on). But incase you would like to suggest and work on a new blog post you can let _**@community-mentors**_ know in the appropriate channel in our Discord community server.
+You would usually [find (new blog post or blog post improvement issue tickets) to work on on the project board](https://docs.collabocommunity.com/project-board). But incase you would like to suggest and work on a new blog post you can let _**@community-mentors**_ know in the appropriate channel in our Discord community server.
 
 ***
 
