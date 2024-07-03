@@ -12,11 +12,11 @@ _Languages or tools:_ Javascript, Typescript, Node Js, Express Js, MongoDB
 
 ***
 
-_**Description:**_ The Node Mongo project has 3 projects under it:
+_**Description:**_ The Node Mongo project has the following projects under it:
 
-* CLI: The CLI helps to generate the API boilerplate templates.
-* API boilerplate templates: The API boilerplate templates are and can be used to build new backend applications.
-* Scripts: The scripts project repo contains code shared by the CLI and API boilerplate templates. It also contains code for the automated dev server used within the API boilerplate templates.
+* _**CLI:**_ The CLI helps to generate the API boilerplate templates.
+* _**API boilerplate templates:**_ The API boilerplate templates are and can be used to build new backend applications.
+* _**Scripts:**_ The scripts project repo contains code shared by the CLI and API boilerplate templates. It also contains code for the automated dev server used within the API boilerplate templates.
 
 ***
 
@@ -124,8 +124,8 @@ Follow these steps when developing and testing out the Node Mongo scripts inside
 
 ***
 
-{% hint style="info" %}
-Note: Only the API boilerplate template uses the node-mongo-script at the moment. Work is ongoing to add it to the CLI too.
+{% hint style="warning" %}
+Only the API boilerplate template uses the node-mongo-script at the moment. Work is ongoing to add it to the CLI too.
 {% endhint %}
 {% endtab %}
 {% endtabs %}

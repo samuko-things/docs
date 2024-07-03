@@ -14,9 +14,9 @@ _Languages or tools:_ Flutter, Javascript, Typescript, React Js, Next Js, Node J
 
 _**Description:**_ The Collabo Community App has the following projects inside it:
 
-* Frontend web client: The Frontend web client is the User Interface of the Collabo Community App accessible through the web browser. The client interacts with the back-end server of the Collabo Community app.
-* Mobile client: The Mobile client is the User Interface of the Collabo Community App installable on android and iOS phones. The client interacts with the back-end server of the Collabo Community app.
-* Server: The server API is the back-end (or server-side) of the Collabo Community App. It contains the API calls used by the web and mobile clients of the Collabo Community App.
+* _**Frontend web client:**_ The Frontend web client is the User Interface of the Collabo Community App accessible through the web browser. The client interacts with the back-end server of the Collabo Community app.
+* _**Mobile client:**_ The Mobile client is the User Interface of the Collabo Community App installable on android and iOS phones. The client interacts with the back-end server of the Collabo Community app.
+* _**Server:**_ The server API is the back-end (or server-side) of the Collabo Community App. It contains the API calls used by the web and mobile clients of the Collabo Community App.
 
 ***
 
@@ -28,7 +28,7 @@ Find the local development instructions for Collabo Community App projects in th
 {% tab title="Web Client" %}
 _**Local development instructions:**_
 
-* Head over to the GitHub repository: [https://github.com/collabo-community/web-client](https://github.com/collabo-community/web-client)
+* Head over to the GitHub repository: [https://github.com/code-collabo/collabo-community-app](https://github.com/code-collabo/collabo-community-app)
 * Fork and clone the GitHub repository as shown in the [SWE contribution workflow](https://docs.collabocommunity.com/contribute/v/software-engineering/#git-workflow-fork-and-clone-repository)
 
 _**Instructions for installing dependencies and starting the frontend web client:**_
@@ -58,8 +58,8 @@ _**Local development instructions:**_
 
 _**Instructions for installing dependencies and starting the mobile client:**_
 
-{% hint style="info" %}
-**TODO:** Add the instructions for running the project
+{% hint style="warning" %}
+Instructions for running the project not yet available.
 {% endhint %}
 {% endtab %}
 
