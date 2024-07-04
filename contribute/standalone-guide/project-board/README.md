@@ -2,13 +2,19 @@
 
 ***
 
+{% hint style="warning" %}
+If you don't find or are not able to access any issue tickets to work on from the board, or if it is looking like the project board is inactive, please contact us on our Discord Community Server. Work is actively going on in our community whether you are able to see it publicly or not. Sometimes you may not see activity in some or all of our public platforms or channels - this is because there are parts of the projects we do not wish to discuss in our public platforms (just yet) even if the projects have public GitHub repositories.
+{% endhint %}
+
+***
+
 ## Use the project board to find issue tickets to work on
 
 **Project board link:** [https://github.com/orgs/collabo-community/projects/1/views/3?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%2C%22Linked+pull+requests%22%2C%22Reviewers%22%5D\&sliceBy%5BcolumnId%5D=Labels](https://github.com/orgs/collabo-community/projects/1/views/3?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%2C%22Linked+pull+requests%22%2C%22Reviewers%22%5D\&sliceBy%5BcolumnId%5D=Labels)
 
 The link to the project board above already has filters applied to help you better find issue tickets by interest, project or topic.
 
-As shown in the screenshot, there is a list of labels on the left hand side of the board. Clicking on the labels on the left side of the board will change the board content accordingly: to only show the issue tickets for that interest (area), project or topic that you have selected.
+As shown in the screenshot, there is a list of labels on the left hand side of the board. Clicking on the labels on the left side of the board will change the board content accordingly: to only show the issue tickets for that interest (area)/aspect, project or topic that you have selected.
 
 <figure><img src=".gitbook/assets/Screenshot 2024-04-06 at 20.43.27.png" alt=""><figcaption></figcaption></figure>
 
