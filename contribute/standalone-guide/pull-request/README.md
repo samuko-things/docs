@@ -13,8 +13,10 @@
 * <mark style="background-color:yellow;">Only make changes that the issue asks to change. Do not change even as small as space or comma anywhere else that does not concern the issue ticket you are taking on.</mark>\
   _**Reason:** Reviewers will not have to deal with anything apart from what is in the issue ticket associated with the pull request. Reviewers can therefore focus, be thorough and do it with little or no fatigue. Also, If we discover that some pull request fix is later problematic after we have merged it in, we may need to revert (i.e. remove) the affected pull request fix. If changes for some other different issue are done in the same fix, this means we'll be removing all of them instead of just that one cause - which is what we don't want. Making reference to pull requests that contain more than the changes asked in the future is also problematic._
 * <mark style="background-color:yellow;">Do not request review from an individual person when you want to request for review on your pull request (once you are done and you feel that your pull request is ready for review). Instead, request review from a review team.</mark>\
-  _**Reason:** The review teams are created so that more than one persons can receive notifications to review your pull request. If one person is not around to review, some other reviewer can take it up. At the same time, you don't have to worry about who to tag or request review from even if the maintainers of the project change._\
-  _**Extra note:** This does not mean that persons who are not on the review teams cannot review a pull request._
+  _**Reason:** The review teams are created so that more than one persons can receive notifications to review your pull request. If one person is not around to review, some other reviewer can take it up. At the same time, you don't have to worry about who to tag or request review from, even if the maintainers of the project change._\
+  _<mark style="background-color:yellow;">**Extra note:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">This does not mean that persons who are not on the review teams cannot review a pull request.</mark>_
+
+***
 
 ## What are the review teams, and which review team to request review from for the project you are contributing to?
 
@@ -30,11 +32,20 @@ Brief description of the review teams:
 * `collabo-community/review-backend-api` reviews pull requests for our backend repos on GitHub
 * `collabo-community/review-cli` reviews pull requests for our CLI repos on GitHub
 
+***
+
 ## How to request review from a review team on your pull request
 
 After submitting your pull request, and anytime you feel your pull request is ready for reviewers to take a look, go to the reviewers dropdown there in your pull request. Then select a review team from the drop down list. You will only find one review team on the list, so just select that one.
 
 For example, in the screenshot below, the contributor is selecting the `collabo-community/review-docs` review team because they are submitting the pull request to the documentation repository.
+
+{% hint style="warning" %}
+If you are not able to access the dropdown to request review, there are 2 options:
+
+* Add a comment on the pull request tagging the correct review team.
+* Reach out on our community Discord server to get access to it: Only contributors who actively contribute to the community are eligible for this upgrade.
+{% endhint %}
 
 <figure><img src=".gitbook/assets/Screenshot 2024-04-06 at 18.34.48.png" alt=""><figcaption><p>Selecting a review team from the reviewer dropdown on your pull request</p></figcaption></figure>
 
