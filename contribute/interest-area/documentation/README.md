@@ -18,9 +18,11 @@ Visit the contributing guide page below to get directions about what is importan
 
 ## Finding projects to contribute to
 
-{% hint style="info" %}
-See _**Writing Collabo Projects**_ in the sidebar to find _**Technical and Non-Technical writing**_ project list and documentation pages. You will be able to get the information for the project that interests you from the pages there.
-{% endhint %}
+Find projects to contribute to and their descriptions, in the page attached below.
+
+{% content-ref url="https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/" %}
+[Overview: Collabo Community Projects](https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/)
+{% endcontent-ref %}
 
 ***
 
