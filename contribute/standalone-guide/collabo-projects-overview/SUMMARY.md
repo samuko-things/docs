@@ -9,4 +9,5 @@
 * [Collabocate](collabo-projects/collabocate.md)
 * [Create Collabo App](collabo-projects/create-collabo-app.md)
 * [Collabo Community App](collabo-projects/collabo-community-app.md)
+* [Collabo Documentation](collabo-projects/collabo-documentation.md)
 * [Internal Projects](collabo-projects/internal-projects.md)
