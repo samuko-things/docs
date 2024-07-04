@@ -18,12 +18,14 @@ Visit the contributing guide page below to get directions about what is importan
 
 ## Finding projects to contribute to
 
-{% hint style="info" %}
-See _**UI/UX design Collabo Projects**_ in the sidebar to find _**UI/UX Design**_ project list and documentation pages. You will be able to get the information for the project that interests you from the pages there.
-{% endhint %}
+Find projects to contribute to and their descriptions, in the page attached below.
+
+{% content-ref url="https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/" %}
+[Overview: Collabo Community Projects](https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/)
+{% endcontent-ref %}
 
 ***
 
-## **Discussions and accessing design workspace**
+## **Accessing community design workspaces**
 
-Visit the appropriate channel on our discord server to join the discussions, and access the Figma design work space for the UI/UX design project that interests you.
+Reach out on our community discord server to join the discussions, and access the Figma design work space for the UI/UX design project that interests you.
