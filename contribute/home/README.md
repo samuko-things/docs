@@ -34,7 +34,7 @@ To help you easily find the specific contributing guide for your area of interes
 
 ## Contribution Workflow & Collabo Projects
 
-Before you start contributing to any of our projects, read up the contribution workflow for your area of interest or expertise. Contribution workflow provides information on the projects that are available for you to contribute to within the _<mark style="background-color:yellow;">**@collabo-community**</mark>_, how to access these projects and/or steps to setup the project(s) you choose. Follow the guide in the [_Navigating collabo contributing guide_](https://docs.collabocommunity.com/contribute/#navigating-collabo-contributor-docs) section above to find the contribution workflow for _<mark style="background-color:yellow;">**@collabo-community**</mark>_ projects that are available for you to contribute to, based on your area of interest and/or expertise.
+Before you start contributing to any of our projects, read up the contribution workflow for your area of interest or expertise. Contribution workflow provides information on the projects that are available for you to contribute to within the _<mark style="background-color:yellow;">**@collabo-community**</mark>_, how to access these projects and/or steps to setup the project(s) you choose. Follow the guide in the [_Navigating collabo contributing guide_](https://docs.collabocommunity.com/contribute#navigating-collabo-contributing-guide) section above to find the contribution workflow for _<mark style="background-color:yellow;">**@collabo-community**</mark>_ projects that are available for you to contribute to, based on your area of interest and/or expertise.
 
 ***
 
@@ -50,4 +50,4 @@ Use the project board to find issue tickets to work on. Also read up why you sho
 
 ## Reporting issues you find with collabo projects
 
-We encourage you to report any (not yet reported) issues that you detect with any of our repositories or applications that you are working on. [Report issues for any of our repositories here](https://github.com/collabo-community/contributor-issue-report/issues). Repository maintainers and/or community mentors will sort them out and send them to the appropriate columns on the Collabo Community Task Board for you and other contributors to be able to start working on them.
+We encourage you to report any (not yet reported) issues that you detect with any of our repositories or applications that you are working on. [Report issues for any of our repositories here](https://github.com/collabo-community/.github/issues/new). Repository maintainers and/or community mentors will sort them out and send them to the appropriate columns on the Collabo Community Task Board for you and other contributors to be able to start working on them.
