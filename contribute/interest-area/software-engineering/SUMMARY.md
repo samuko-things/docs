@@ -3,8 +3,9 @@
 * [Contribution Workflow for Software Engineers](README.md)
 * [Collabo Community on Discord](https://resources.collabocommunity.com/p/vmg4PL1ozeI435/Community-and-Documentation)
 
-## collabo projects
+## PROJECT LOCAL DEVELOPMENT INSTRUCTIONS
 
-* [Node Mongo](collabo-projects/node-mongo.md)
-* [Collabo Community App](collabo-projects/collabo-community-app.md)
-* [Internal Projects](https://docs.collabocommunity.com/internal-projects)
+* [Building Blocks](project-local-development-instructions/building-blocks.md)
+* [Collabocate](project-local-development-instructions/collabocate.md)
+* [Create Collabo App](project-local-development-instructions/create-collabo-app.md)
+* [Collabo Community App](project-local-development-instructions/collabo-community-app.md)

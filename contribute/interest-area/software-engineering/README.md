@@ -16,23 +16,23 @@ Visit the contributing guide page below to get directions about what is importan
 
 ***
 
-## Finding projects to contribute to
+## Finding projects to contribute to with their local development instructions
 
 {% hint style="info" %}
-See _**Collabo Projects**_ in the sidebar to find _**Software Engineering**_ project list and documentation pages. You will be able to get the link to the Github repository for the project that interests you from the pages there.
+See _**Project local development instructions**_ from the _**sidebar**_ of this documentation page to find _**Software Engineering**_ project local development instructions documentation pages. You will be able to get the link to the GitHub repository for the project that interests you from the pages there. You will need the link to get the project onto your local computer, as shown in the next steps below.
 {% endhint %}
 
 ***
 
 ## Git workflow: Fork and Clone repository
 
-Once you find a Software Engineering project that interests you contribute to, head over to the Github repository for that project.&#x20;
+Once you find a Software Engineering project that interests you contribute to, head over to the the _**repository URL**_ i.e. (the Collabo Community's) GitHub repository for that project.
 
 {% hint style="info" %}
 Fork the repository. Then clone the forked repository unto your local computer.
 {% endhint %}
 
-**HTTPS url option:** If you are using `https` url, the clone command with your url will look like this:
+**HTTPS url option:** If you are using `https` _**clone url**_, the clone command with your url will look like this:
 
 {% code overflow="wrap" %}
 ```
@@ -40,7 +40,7 @@ git clone https://github.com/your-own-github-account-user-name-will-be-here-inst
 ```
 {% endcode %}
 
-**SSH url option:** [See GitHub documentation for SSH configuration](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) incase you wish to be able to work with SSH url for git operations (that is, if you have not set it up before). If you are using `SSH` url, the clone command with your url will look like this:
+**SSH url option:** [See GitHub documentation for SSH configuration](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) incase you wish to be able to work with SSH url for git operations (that is, if you have not set it up before). If you are using `SSH` _**clone url**_, the clone command with your url will look like this:
 
 {% code overflow="wrap" %}
 ```
@@ -49,7 +49,7 @@ git clone git@github.com:your-own-github-account-user-name-will-be-here-instead/
 {% endcode %}
 
 {% hint style="info" %}
-You can get the url to clone the project with, through the green code button in the repository on Github as shown below.
+You can get the url to clone the project with, through the green code button in the repository on Github as shown below in the screenshot.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/Screenshot 2023-11-13 at 01.39.27 (1).png" alt=""><figcaption><p>Position of the Green Code button and the popup to copy URL on GitHub</p></figcaption></figure>
@@ -59,7 +59,7 @@ You can get the url to clone the project with, through the green code button in 
 ## Installing dependencies and running the project locally
 
 {% hint style="info" %}
-Every project may have different instructions for how to install dependencies and how to run the project locally. See the _**Local development instructions**_ section of the documentation page of the project you are contributing to, so get specific instructions for that project.
+Every project may have different instructions for how to install dependencies and how to run the project locally. See _**Project local development instructions**_ from the _**sidebar**_ of this documentation page to get specific instructions for that project.
 {% endhint %}
 
 ***
