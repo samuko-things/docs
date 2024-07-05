@@ -10,13 +10,13 @@ description: HIGH LEVEL DESCRIPTION OF THE CREATE COLLABO APP PROJECT
 
 The _**Create Collabo App**_ (formerly [Node Mongo](https://docs.collabocommunity.com/node-mongo)) has evolved from being just a CLI that generates basic backend boilerplate templates for use in backend development. The CLI is now moving towards powering any thing we want to automate due to the nature of the projects within our community, which we will also make available for other open source communities or individual projects to use for their projects too.
 
-The full project details for Create Collabo App is only available within the community (i.e. within our Discord community server channels) for now, and will be available to the public after version 1 of the project is released.
+Project details for Create Collabo App is only available within the community (i.e. within our Discord community server channels) for now up to the version we are working towards releasing next, and will be available to the public after the said version of the project is released.
 
 ***
 
 ## Contribute to what interests you
 
-Contribute to ongoing efforts in any of the following areas below or let us know where or how else you would like to be involved:
+Contribute to ongoing efforts in any of the following areas below, or let us know where or how else you would like to be involved:
 
 * Research and experimentation
 * Engineering
@@ -33,7 +33,7 @@ Contribute to ongoing efforts in any of the following areas below or let us know
 Visit the contributing guide page below to get directions about what is important in Collabo Community, and also learn how to make quality contributions to Collabo Community.
 
 {% content-ref url="https://app.gitbook.com/s/XdbpF9uCzy0cC5JUJYyW/" %}
-[Contributing Guide](https://app.gitbook.com/s/XdbpF9uCzy0cC5JUJYyW/)
+[Contributing Guide: Home](https://app.gitbook.com/s/XdbpF9uCzy0cC5JUJYyW/)
 {% endcontent-ref %}
 
 ***

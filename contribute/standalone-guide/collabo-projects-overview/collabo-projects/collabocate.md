@@ -18,13 +18,13 @@ Users and contributors of the open source project that uses it can:
 * Seamlessly interact with one or more of open source GitHub repositories connected to such project from the comfort of the user interface of the project, no new/long learning curve required.
 * Other information coming soon after version 1 of GitHub Sync is released.
 
-The full project details for the other projects under collabocate are only available within the community (i.e. within our Discord community server channels) for now, and will be available to the public as soon as the community starts developing them.
+Project details for GitHub Sync is only available within the community (i.e. within our Discord community server channels) for now up to the version we are working towards releasing next, and will be available to the public after the said version of the project is released. Project details for the other projects under Collabocate are only available within the community, and will be available to the public as soon as the community starts developing them.
 
 ***
 
 ## Contribute to what interests you
 
-Contribute to ongoing efforts in any of the following areas below or let us know where or how else you would like to be involved:
+Contribute to ongoing efforts in any of the following areas below, or let us know where or how else you would like to be involved:
 
 * Research and experimentation
 * Engineering
@@ -41,7 +41,7 @@ Contribute to ongoing efforts in any of the following areas below or let us know
 Visit the contributing guide page below to get directions about what is important in Collabo Community, and also learn how to make quality contributions to Collabo Community.
 
 {% content-ref url="https://app.gitbook.com/s/XdbpF9uCzy0cC5JUJYyW/" %}
-[Contributing Guide](https://app.gitbook.com/s/XdbpF9uCzy0cC5JUJYyW/)
+[Contributing Guide: Home](https://app.gitbook.com/s/XdbpF9uCzy0cC5JUJYyW/)
 {% endcontent-ref %}
 
 ***
