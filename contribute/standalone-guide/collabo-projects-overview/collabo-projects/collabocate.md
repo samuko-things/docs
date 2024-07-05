@@ -18,7 +18,7 @@ Users and contributors of the open source project that uses it can:
 * Seamlessly interact with one or more of open source GitHub repositories connected to such project from the comfort of the user interface of the project, no new/long learning curve required.
 * Other information coming soon after version 1 of GitHub Sync is released.
 
-Project details for GitHub Sync is only available within the community (i.e. within our Discord community server channels) for now up to the version we are working towards releasing next, and will be available to the public after the said version of the project is released. Project details for the other projects under Collabocate are only available within the community, and will be available to the public as soon as the community starts developing them.
+Project details for GitHub Sync is only available within the community (i.e. within our Discord community server channels) for now up to the version we are working towards releasing next, and will be made available on this documentation page after the said version of the project is released. Project details for the other projects under Collabocate are only available within the community, and will be made available on this documentation page as soon as the community starts developing them.
 
 ***
 
