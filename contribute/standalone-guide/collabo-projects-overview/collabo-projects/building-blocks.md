@@ -8,7 +8,7 @@ description: HIGH LEVEL DESCRIPTION OF THE BUILDING BLOCKS PROJECT
 
 ## **Project Description**&#x20;
 
-We are currently working on a framework (and which includes a collection of libraries) here at Collabo Community, called _**Building Blocks**_. Building blocks is broad, but here's the summary: It is a "mindset" that encourages approaching anything (UI/UX design, code writing, documentation, product development etc.) in a performant, structured and predictable manner - different from what developers/engineers are used when dealing/working with existing frameworks or libraries, but not entirely different too.
+We are currently working on a framework (and which includes a collection of libraries) here at Collabo Community, called _**Building Blocks**_. Building blocks is broad, but here's the summary: It is a "mindset" that encourages approaching anything (UI/UX design, code writing, documentation, product development etc.) in a performant, structured and predictable manner - different from what developers/engineers are used to when dealing/working with existing frameworks or libraries, but not entirely different too.
 
 The full project details for building blocks is only available within the community (i.e. within our Discord community server channels) for now, and will be available to the public after version 1 of the framework is released.
 
@@ -16,7 +16,7 @@ The full project details for building blocks is only available within the commun
 
 ## Contribute to what interests you
 
-Contribute to ongoing efforts in any of the following areas below or let us know where or how else you would like to be involved:
+Contribute to ongoing efforts in any of the following areas below, or let us know where or how else you would like to be involved:
 
 * Research and experimentation
 * Engineering
@@ -35,7 +35,7 @@ Contribute to ongoing efforts in any of the following areas below or let us know
 Visit the contributing guide page below to get directions about what is important in Collabo Community, and also learn how to make quality contributions to Collabo Community.
 
 {% content-ref url="https://app.gitbook.com/s/XdbpF9uCzy0cC5JUJYyW/" %}
-[Contributing Guide](https://app.gitbook.com/s/XdbpF9uCzy0cC5JUJYyW/)
+[Contributing Guide: Home](https://app.gitbook.com/s/XdbpF9uCzy0cC5JUJYyW/)
 {% endcontent-ref %}
 
 ***
