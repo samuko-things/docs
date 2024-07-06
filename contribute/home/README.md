@@ -1,5 +1,7 @@
 ---
 description: CONTRIBUTE TO COLLABO COMMUNITY 🤗
+cover: .gitbook/assets/Twitter-Banner-1b-cropped.jpg
+coverY: 0
 ---
 
 # 👷 Contributing Guide: Home
