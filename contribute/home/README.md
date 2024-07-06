@@ -1,6 +1,6 @@
 ---
 description: CONTRIBUTE TO COLLABO COMMUNITY 🤗
-cover: .gitbook/assets/Twitter-Banner-1b-cropped.jpg
+cover: .gitbook/assets/Linkedin-Banner-1b-cropped.jpg
 coverY: 0
 ---
 
