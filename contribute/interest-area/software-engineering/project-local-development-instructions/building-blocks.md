@@ -6,7 +6,7 @@ description: SOFTWARE ENGINEERING CONTRIBUTING DOC FOR BUILDING BLOCKS
 
 ***
 
-## Project description- page link
+## Project description - page link
 
 Find project description in the page attached below.
 
