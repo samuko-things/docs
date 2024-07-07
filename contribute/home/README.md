@@ -52,4 +52,4 @@ Use the project board to find issue tickets to work on. Also read up why you sho
 
 ## Reporting issues you find with collabo projects
 
-We encourage you to report any (not yet reported) issues that you detect with any of our repositories or applications that you are working on. [Report issues for any of our repositories here](https://github.com/collabo-community/.github/issues/new). Repository maintainers and/or community mentors will sort them out and send them to the appropriate columns on the Collabo Community Task Board for you and other contributors to be able to start working on them.
+We encourage you to report any (not yet reported) issues that you detect with any of our repositories or applications that you are working on. [Report issues for any of our repositories to _**Product Issue Reports**_](https://github.com/collabo-community/product-issue-reports/issues/new/choose). Repository maintainers and/or community mentors will sort them out and send them to the appropriate columns on the Collabo Community Task Board for you and other contributors to be able to start working on them.
