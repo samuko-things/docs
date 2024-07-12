@@ -30,17 +30,17 @@ Before you start contributing, read up our Community Code of Conduct and rules t
 
 Before you start contributing to any of our projects, read up the contribution workflow document guide for the area(s) you are interested in contributing to. The contribution workflow will give you directions on how to access and partake in Collabo projects that you are interested in contributing to. We have separated the content accordingly in to different documents, so that you only have to go through the one(s) that are of interest to you. Use the page links below to access the contribution workflow guides:
 
-{% embed url="https://docs.collabocommunity.com/software-engineering" %}
-Software Enginering contribution workflow
-{% endembed %}
+{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/uGDfGtsUTaBkuk5DjT56/" %}
+[Software Engineering](https://app.gitbook.com/o/-MWSSST6\_GF5VEuG0Atd/s/uGDfGtsUTaBkuk5DjT56/)
+{% endcontent-ref %}
 
-{% embed url="https://docs.collabocommunity.com/ui-ux-design" %}
-UI/UX contribution workflow
-{% endembed %}
+{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/KPZEPQgHuygZL7kUQ4Yl/" %}
+[UI/UX Design](https://app.gitbook.com/o/-MWSSST6\_GF5VEuG0Atd/s/KPZEPQgHuygZL7kUQ4Yl/)
+{% endcontent-ref %}
 
-{% embed url="https://docs.collabocommunity.com/writing" %}
-Writing (technical and non-technical) contribution workflow
-{% endembed %}
+{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/DY7KQT5BdFsJ75hp3tnl/" %}
+[Writing: Technical & Non-Technical](https://app.gitbook.com/o/-MWSSST6\_GF5VEuG0Atd/s/DY7KQT5BdFsJ75hp3tnl/)
+{% endcontent-ref %}
 
 ***
 
