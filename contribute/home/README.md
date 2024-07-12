@@ -26,17 +26,21 @@ Before you start contributing, read up our Community Code of Conduct and rules t
 
 ***
 
-## Navigating collabo contributing guide
+## Contribution workflow for Collabo projects
 
-To help you easily find the specific contributing guide for your area of interest and/or expertise, we have separated the content accordingly. At the top left of any page of the contributing guide,  you will find a dropdown element where you can get to select the contributing guide for the area that interests you to contribute to. If you are on a mobile phone, then this dropdown is somewhere in the sidebar. At the moment we only have contributing guide and projects in the following areas: Software Engineering, UI/UX Design, Technical Writing and Documentation.
+Before you start contributing to any of our projects, read up the contribution workflow document guide for the area(s) you are interested in contributing to. The contribution workflow will give you directions on how to access and partake in Collabo projects that you are interested in contributing to. We have separated the content accordingly in to different documents, so that you only have to go through the one(s) that are of interest to you. Use the page links below to access the contribution workflow guides:
 
-<figure><img src=".gitbook/assets/Screenshot 2023-10-18 at 03.50.09.png" alt=""><figcaption><p>Selecting specific contributor docs for your area of interest</p></figcaption></figure>
+{% embed url="https://docs.collabocommunity.com/software-engineering" %}
+Software Enginering contribution workflow
+{% endembed %}
 
-***
+{% embed url="https://docs.collabocommunity.com/ui-ux-design" %}
+UI/UX contribution workflow
+{% endembed %}
 
-## Contribution Workflow & Collabo Projects
-
-Before you start contributing to any of our projects, read up the contribution workflow for your area of interest or expertise. Contribution workflow provides information on the projects that are available for you to contribute to within the _<mark style="background-color:yellow;">**@collabo-community**</mark>_, how to access these projects and/or steps to setup the project(s) you choose. Follow the guide in the [_Navigating collabo contributing guide_](https://docs.collabocommunity.com/contribute#navigating-collabo-contributing-guide) section above to find the contribution workflow for _<mark style="background-color:yellow;">**@collabo-community**</mark>_ projects that are available for you to contribute to, based on your area of interest and/or expertise.
+{% embed url="https://docs.collabocommunity.com/writing" %}
+Writing (technical and non-technical) contribution workflow
+{% endembed %}
 
 ***
 
