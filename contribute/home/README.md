@@ -8,11 +8,11 @@ coverY: 0
 
 ***
 
-_This contribution guide will help you find all the resources you will need to start contributing to the Collabo community and projects._
+_This contribution guide will help you find all the resources you will need to start contributing to the Collabo Community and projects._
 
 ***
 
-Here at Collabo Community, quality comes before quantity. We prefer you submit one thing (in time) and with good quality, than submitting 10 things (in time) that doesn't have quality. And we are not expecting you to achieve this all by your self. We are aware that you may not be used to the tools that we use or that this may be your first time in a setting like this. Therefore we provide you with as much assistance that we discover that you need at the beginning of your journey with Collabo Community and along the way. We follow our contributing guide strictly. Ensure to not skip any of the sections below so that you can understand how we encourage you to go about contributing to Collabo Community, and so that your contributions don't stay in review for too long.
+Here at Collabo Community, quality comes before quantity. We prefer you submit one thing (in time) and with good quality, than submitting 10 things (in time) that doesn't have quality. We are not expecting you to achieve this all by yourself. We are aware that you may not be used to the tools that we use or that this may be your first time in a setting like this. Therefore we provide you with as much assistance that we discover that you need, at the beginning of your journey with Collabo Community and along the way. We follow our contributing guide strictly. Ensure to not skip any of the sections below so that you can understand how we encourage you to go about contributing to Collabo Community, and so that your contributions don't stay in review for too long.
 
 ***
 
