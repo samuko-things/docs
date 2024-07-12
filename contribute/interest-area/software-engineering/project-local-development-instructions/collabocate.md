@@ -24,55 +24,96 @@ Find project description in the page attached below.
 Find the local development instructions for the different Collabocate projects in the tabs below, depending on the one you want to develop locally.
 
 {% tabs %}
-{% tab title="GitHub Sync" %}
-{% hint style="info" %}
-**Note 1 of 2:** There is migration going on for the API server, therefore there are 2 servers. Reason for retaining the old server for now: we still want to be able to run both the old API server and the new one, for comparison, upgrade and collaboration purposes.
-
-**Note 2 of 2:** See instructions below for whether you wish to run the older API server or the new API server.
-{% endhint %}
-
-***
-
-_**Running the server: Old API server**_
-
+{% tab title="GitHubSync" %}
 {% hint style="info" %}
 Once you have the repository on your local computer, ensure you are _**in the root of the project's directory**_. Then install and run following the steps below.
 {% endhint %}
 
-* Install Dependencies: `npm install`
-* Make a copy of the `.env.example` file, then rename the copy to `.env` - it is this renamed copy that you will store your secrets in. Ensure that the .env file is in the _**root of the project's directory**_.
-*   In the `.env` file, supply:
+***
 
-    * The GitHub API url of your desired/chosen project in the `.env` file like this:
+_**Install project dependencies**_
 
-    ```
-    GITHUB_API_URL=https://api.github.com/repos/your-own-github-account-user-name-will-be-here-instead/the-name-of-the-repo-you-want-to-interact-with
-    ```
+Install dependencies:
 
-    * A GitHub personal access token for the GitHub account you are trying to access the repo for like this:
-
-    ```
-    GITHUB_PERSONAL_ACCESS_TOKEN=add-your-token-here
-    ```
-
-    * the port number of your choice (for the API server to run on) in the `.env` file e.g. `PORT=4200`
-* Start the server: `npm start`
-* Open your browser and navigate to `http://localhost:server-port-number-here`
+```
+npm install
+```
 
 ***
 
-_**Running the server: New API server**_
+_**First time setup instructions for GitHubSync \[General]**_
+
+Make a copy of the `.env.example` file, then rename the copy to `.env` - it is this renamed copy that you will store your secrets in. Ensure that the .env file is in the _**root of the project's directory**_.
+
+***
+
+_**First time setup instructions for GitHubSync \[API server]**_
 
 {% hint style="info" %}
-Once you have the repository on your local computer, follow the steps below.
+Do not litter our repositories with your GitHubSync tests or experiments. Use the  REPO\_API\_URL for the community's test/experiment repo has shown below.
 {% endhint %}
 
-* Change directory into the `server` folder of in the root of the collabocate project/repository cloned
-* Make a copy of the `.env.example` file, then rename the copy to `.env` - it is this renamed copy that you will store your secrets in. Ensure that the .env file is in the root of the `server` folder.
-* In the `.env` file, supply:
-  * the port number of your choice (for the API server to run on) in the `.env` file e.g. `PORT=8080`
-* Start the server: `npm start`
-* Open your browser and navigate to `http://localhost:server-port-number-here`
+{% hint style="info" %}
+Request for the GITHUB\_PERSONAL\_ACCESS\_TOKEN that works with our repos, from our community Discord server.
+{% endhint %}
+
+In the `.env` file, supply:
+
+* The (GitHub)  REPO API url of the repository the community's test/experiment repo in the `.env` file as shown below (i.e. just copy and paste this in your .env file). Make sure to add it under/after the `GITHUB_API_BASE_URL` environment variable so that the variable in the repo url can take effect:
+
+```
+REPO_API_URL=${GITHUB_API_BASE_URL}/repos/collabo-community/use-me-for-experiments
+```
+
+* The GitHub personal access token for accessing the repo url:
+
+```
+GITHUB_PERSONAL_ACCESS_TOKEN=add-the-token-here
+```
+
+* The port number of your choice (for the API server to run on) e.g.
+
+```
+PORT=4800
+```
+
+***
+
+_**First time setup instructions for GitHubSync \[test client]**_
+
+In the `.env` file, supply:
+
+* The backend url as shown below (i.e. just copy and paste this in your .env file). This is what will help connect the client to the API server. Make sure to add it under/after the `PORT` environment variable so that the variable in the backend url can take effect:
+
+```
+BACKEND_URL=http://localhost:${PORT}
+```
+
+* The port number of your choice (for the test client to run on) e.g.
+
+```
+CLIENT_APP_PORT=5500
+```
+
+***
+
+_**Running the API server**_
+
+Start the API server. In the root of the repository, run this in your terminal:
+
+```
+npm run dev:api
+```
+
+***
+
+_**Running the test client**_
+
+Start the client. In the root of the repository, run this in your terminal:
+
+```
+npm run dev:client
+```
 {% endtab %}
 {% endtabs %}
 
