@@ -87,18 +87,18 @@ Follow these steps when developing and testing out the changes made to the Block
 
 <mark style="background-color:yellow;">First steps:</mark>
 
-* Ensure you have both the building-building blocks repo and the repo for the project you want to test locally on your computer.
+* Ensure you have both the building building blocks repo and the repo for the project you want to test locally on your computer.
 * Ensure that you have also followed the local development instructions to install dependencies, set them up and you are able to run them without problems.
 
 <mark style="background-color:yellow;">Change directory into the project you want to use to test the BlocksTS library in. Then do the following:</mark>
 
-* Link your local building-blocks repo, using the relative path to your local building blocks repo. For example, if the repo folder for project you are testing with and the building blocks repo folder are on the same level and share the same parent folder, you would link it like so:
+* Link your local building blocks repo, using the relative path to your local building blocks repo. For example, if the repo folder for project you are testing with and the building blocks repo folder are on the same level and share the same parent folder, you would link it like so:
 
 ```
 npm link ../building-blocks
 ```
 
-* Then add the building blocks package to the project's dependencies as shown below. Check the package.json of the building blocks repo to get the version of the project to use. For example, if  building blocks' package.json has `"version": "0.0.0"` , you would add it the package.json dependencies for the project you are testing with like so:
+* Then add the building blocks package to the project's dependencies as shown below. Check the package.json of the building blocks repo to know the version of the package to use. For example, if  building blocks' package.json has `"version": "0.0.0"` , you would add it to the package.json dependencies for the project you are testing with like so:
 
 ```
 "@collabo-community/building-blocks": "^0.0.0"
