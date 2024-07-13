@@ -2,7 +2,7 @@
 
 ***
 
-## Do you want reviewers to be happy and eager to review your pull request? Follow these guidelines otherwise you will scare them away
+## PR 101: How to submit pull requests that make the work of reviewers and repository maintainers less complicated
 
 * <mark style="background-color:yellow;">Do not submit a pull request for an issue ticket you are not assigned to. It will be counted as spam.</mark>\
   _**Reason:** We want to be clear about who is working on what, and we want to avoid more than one person working on the same issue ticket without knowing it._
