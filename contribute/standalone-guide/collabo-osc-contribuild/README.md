@@ -72,6 +72,14 @@ Timeframe Breakdown:
 
 ***
 
+## Work hours per week
+
+* Intern contriBUILDers work 15 hours per week.
+* Mentor contriBUILDers work 16 hours per week.&#x20;
+* Volunteer contriBUILDers work 8 - 10 hours per week.
+
+***
+
 ## Have questions?
 
 On the sidebar of this documentation page, you will find the link to our discord community. Feel free to let us know if you have any questions there.
