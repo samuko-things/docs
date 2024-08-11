@@ -10,13 +10,17 @@ If you don't find or are not able to access any issue tickets to work on from th
 
 ## Use the project board to find issue tickets to work on
 
-**Project board link:** [https://github.com/orgs/collabo-community/projects/1/views/3?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%2C%22Linked+pull+requests%22%2C%22Reviewers%22%5D\&sliceBy%5BcolumnId%5D=Labels](https://github.com/orgs/collabo-community/projects/1/views/3?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%2C%22Linked+pull+requests%22%2C%22Reviewers%22%5D\&sliceBy%5BcolumnId%5D=Labels)
+**Project board link:** [https://github.com/orgs/collabo-community/projects/1?pane=info](https://github.com/orgs/collabo-community/projects/1?pane=info)
 
-The link to the project board above already has filters applied to help you better find issue tickets by interest, project or topic.
+The link to the Collabo Community project board above already has filters applied, to help you better find issue tickets by the area of project development, project or topic that you are interested in.&#x20;
 
-As shown in the screenshot, there is a list of labels on the left hand side of the board. Clicking on the labels on the left side of the board will change the board content accordingly: to only show the issue tickets for that interest (area)/aspect, project or topic that you have selected.
+There is a list of labels on the left hand side of the board. Clicking on the labels on the left side of the board will change the board content accordingly: to only show the issue tickets for that area of project development, project or topic that you have selected.
 
-<figure><img src=".gitbook/assets/Screenshot 2024-04-06 at 20.43.27.png" alt=""><figcaption></figcaption></figure>
+Here's a youtube video that should help to understand how to interact with the Collabo Community board:
+
+{% embed url="https://youtu.be/J-hhB6lINpE" %}
+
+***
 
 ## **Getting assigned to issue ticket, and why get assigned**
 
