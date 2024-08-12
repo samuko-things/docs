@@ -72,11 +72,11 @@ Timeframe Breakdown:
 
 ***
 
-## Work hours per week
+## Work hours per week and stipend
 
-* Intern contriBUILDers work 15 hours per week.
-* Mentor contriBUILDers work 16 hours per week.&#x20;
-* Volunteer contriBUILDers work 8 - 10 hours per week.
+* Accepted intern contriBUILDers work 15 hours per week, and receive monthly stipend.
+* Accepted mentor contriBUILDers work 16 hours per week, and receive monthly stipend.&#x20;
+* Accepted volunteer contriBUILDers work 8 - 10 hours per week, but do not receive stipend.
 
 ***
 
